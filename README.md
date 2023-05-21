@@ -23,7 +23,7 @@ I am **Divyansh Chandak** ,a budding **Software Engineer** & passionate about **
 
 Contact Me: c.divyansh@iitg.ac.in
 
-<h2 align="center">Why Open Source?</h2>
 
-Open source is fun...SIMPLE!!!
+I want to join open source to gain experience in the real world technical problems. It would also help me in building a portfolio which would eventually be helful for me as a record.
+>>>>>>> second
 
