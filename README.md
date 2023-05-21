@@ -23,3 +23,7 @@ I am **Divyansh Chandak** ,a budding **Software Engineer** & passionate about **
 
 Contact Me: c.divyansh@iitg.ac.in
 
+<h2 align="center">Why Open Source?</h2>
+
+Open source is fun...SIMPLE!!!
+
